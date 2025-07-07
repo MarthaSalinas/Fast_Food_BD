@@ -123,4 +123,3 @@ Se desarrollaron consultas para resolver requerimientos reales del negocio. Algu
 - 🎓 **Perfil:** Analista de Datos | Ingeniera Civil
 ---
 
-> Proyecto desarrollado como parte del Módulo 2 del programa **Data Analytics 2.0** de Henry Bootcamp.
